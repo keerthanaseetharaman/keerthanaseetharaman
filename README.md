@@ -44,7 +44,7 @@ Interactive Python and Streamlit application for CSV data exploration, analysis,
 
 ## 📫 Connect With Me
 
-- LinkedIn:linkedin.com/in/keerthana-s-a
+- LinkedIn: linkedin.com/in/keerthana-s-a
 - GitHub: https://github.com/keerthanaseetharaman
 
 ---
